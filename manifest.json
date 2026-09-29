@@ -1,0 +1,20 @@
+{
+  "name": "គ្រឿងបន្លាស់រថយន្ត",
+  "short_name": "គ្រឿងបន្លាស់រថយន្ត",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#bf9602",
+  "theme_color": "#0af0ab",
+  "icons": [
+    {
+      "src": "/garage-01.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/garage-01.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
